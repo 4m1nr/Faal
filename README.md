@@ -1,5 +1,3 @@
-Sure, here is the updated README file with the requested addition at the top:
-
 ---
 
 # This file is AI generated
